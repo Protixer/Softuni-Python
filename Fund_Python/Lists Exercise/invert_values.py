@@ -1,0 +1,1 @@
+print([int(int(number) / -1) for number in input().split()])

@@ -7,11 +7,11 @@
 # print(list)
 
 """ List Comprehension """
-quote = "life, uh, finds a way"
-print({char for char in quote if char in "aeiou"})
+# quote = "life, uh, finds a way"
+# print({char for char in quote if char in "aeiou"})
 
-print([(x, y) for x in [1,2,3] for y in [3,1,4]])
+# print([(x, y) for x in [1,2,3] for y in [3,1,4]])
 
-print([x for x in range(0, 10)])
+# print([x for x in range(0, 10)])
 
-print([ char for char in quote])
+# print([char for char in quote])
