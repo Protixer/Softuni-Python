@@ -25,7 +25,19 @@
 # copy_fruits = fruits.copy()
 # print(copy_fruits)
 
-""" List count """
-fruits = ["apple","banana","blueberry","apple","apple"]
-count = fruits.count("apple")
-print(count)
+""" List Count """
+# fruits = ["apple","banana","blueberry","apple","apple"]
+# count = fruits.count("apple")
+# print(count)
+
+""" List Extend """
+# fruits = ['apple', 'banana', 'cherry']
+# cars = ['Ford', 'BMW', 'Volvo']
+# fruits.extend(cars)
+# print(fruits)
+# print(cars)
+
+fruits = ['apple', 'banana', 'cherry']
+cars = ['Ford', 'BMW', 'Volvo']
+fruits += cars
+print(fruits)
