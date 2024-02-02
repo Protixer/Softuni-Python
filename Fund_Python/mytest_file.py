@@ -47,7 +47,11 @@
 # print(valorant_agents.index("Reyna"))
 
 """ List Insert """
-valorant_agents = ["Jet", "Reyna", "Viper"]
+# valorant_agents = ["Jet", "Reyna", "Viper"]
+# valorant_agents.insert(2,"Neon")
+# print(valorant_agents)
 
-valorant_agents.insert(2,"Neon")
+""" List Pop"""
+valorant_agents = ["Jet", "Reyna", "Viper"]
+valorant_agents.pop(2)
 print(valorant_agents)
