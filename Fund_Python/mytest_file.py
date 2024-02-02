@@ -43,5 +43,11 @@
 # print(fruits)
 
 """ List Index """
+# valorant_agents = ["Jet", "Reyna", "Viper"]
+# print(valorant_agents.index("Reyna"))
+
+""" List Insert """
 valorant_agents = ["Jet", "Reyna", "Viper"]
-print(valorant_agents.index("Reyna"))
+
+valorant_agents.insert(2,"Neon")
+print(valorant_agents)
