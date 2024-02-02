@@ -37,7 +37,11 @@
 # print(fruits)
 # print(cars)
 
-fruits = ['apple', 'banana', 'cherry']
-cars = ['Ford', 'BMW', 'Volvo']
-fruits += cars
-print(fruits)
+# fruits = ['apple', 'banana', 'cherry']
+# cars = ['Ford', 'BMW', 'Volvo']
+# fruits += cars
+# print(fruits)
+
+""" List Index """
+valorant_agents = ["Jet", "Reyna", "Viper"]
+print(valorant_agents.index("Reyna"))
