@@ -52,6 +52,13 @@
 # print(valorant_agents)
 
 """ List Pop"""
+# valorant_agents = ["Jet", "Reyna", "Viper"]
+# valorant_agents.pop(2)
+# print(valorant_agents)
+
+""" List Remove """
 valorant_agents = ["Jet", "Reyna", "Viper"]
-valorant_agents.pop(2)
+valorant_agents.remove("Reyna")
+print(valorant_agents)
+valorant_agents.remove(valorant_agents[0])
 print(valorant_agents)
