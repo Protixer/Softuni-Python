@@ -57,8 +57,13 @@
 # print(valorant_agents)
 
 """ List Remove """
+# valorant_agents = ["Jet", "Reyna", "Viper"]
+# valorant_agents.remove("Reyna")
+# print(valorant_agents)
+# valorant_agents.remove(valorant_agents[0])
+# print(valorant_agents)
+
+""" List Reverse """
 valorant_agents = ["Jet", "Reyna", "Viper"]
-valorant_agents.remove("Reyna")
-print(valorant_agents)
-valorant_agents.remove(valorant_agents[0])
+valorant_agents.reverse()
 print(valorant_agents)
