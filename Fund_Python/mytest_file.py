@@ -69,6 +69,11 @@
 # print(valorant_agents)
 
 """ List Sort """
-valorant_agents = ["Jet", "Reyna", "Viper"]
+valorant_agents = ["Jet", "Reyna", "Viper","Angel"]
+valorant_agents.sort()
+print(valorant_agents)
+list_with_numbers = [1,10,2,5]
+list_with_numbers.sort()
+print(list_with_numbers)
 
 
