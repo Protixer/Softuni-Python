@@ -64,6 +64,11 @@
 # print(valorant_agents)
 
 """ List Reverse """
+# valorant_agents = ["Jet", "Reyna", "Viper"]
+# valorant_agents.reverse()
+# print(valorant_agents)
+
+""" List Sort """
 valorant_agents = ["Jet", "Reyna", "Viper"]
-valorant_agents.reverse()
-print(valorant_agents)
+
+
