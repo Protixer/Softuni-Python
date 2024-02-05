@@ -24,5 +24,5 @@ elif command == "divide":
     print(divide(number_one, number_two))
 elif command == "add":
     print(add(number_one, number_two))
-elif subtract == "subtract":
+elif command == "subtract":
     print(subtract(number_one, number_two))
