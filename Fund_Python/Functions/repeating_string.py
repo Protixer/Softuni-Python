@@ -1,3 +1,5 @@
+""" Repeating String with lambda"""
+
 string = input()
 n = int(input())
 
