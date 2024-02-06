@@ -1,4 +1,5 @@
 def total_price(product, quantity):
+
     final_price = 0
 
     if product == "coffee":
@@ -7,7 +8,7 @@ def total_price(product, quantity):
         final_price = quantity * 1
     elif product == "coke":
         final_price = quantity * 1.4
-    elif final_price == "snacks":
+    elif product == "snacks":
         final_price = quantity * 2
 
     return final_price
