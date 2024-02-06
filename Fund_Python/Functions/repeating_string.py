@@ -9,6 +9,18 @@
 
 """ Repeating string with multiply"""
 
+# string = input()
+# n = int(input())
+# print(string * n)
+
+
+""" String repeating with function """
+
+
+def repeat_string(string, times):
+    return string * times
+
+
 string = input()
 n = int(input())
-print(string * n)
+print(repeat_string(string, n))
