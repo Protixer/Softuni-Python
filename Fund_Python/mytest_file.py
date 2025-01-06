@@ -65,7 +65,7 @@
 # print(valorant_agents)
 
 """ List Reverse """
-# valorant_agents = ["Jet", "Reyna", "Viper"]
+# valorant_agents = ["Jet", "Reyna", "Viper","Jet"]
 # valorant_agents.reverse()
 # print(valorant_agents)
 
