@@ -6,3 +6,9 @@ if x is y:
     print("GOsho")
 else:
     print("pesho")
+
+
+if x == y:
+    print("GOsho")
+else:
+    print("pesho")
