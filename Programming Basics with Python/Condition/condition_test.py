@@ -1,14 +1,11 @@
-"""Add Comments"""
-x = 10
-y = 10
+number = 10
 
-if x is y:
-    print("GOsho")
+if number % 2 == 0:
+    print("even")
 else:
-    print("pesho")
+    print("odd")
 
-
-if x == y:
-    print("GOsho")
+if number > 0:
+    print("positive")
 else:
-    print("pesho")
+    print("negative")
